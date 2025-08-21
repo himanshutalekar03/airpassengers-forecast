@@ -29,4 +29,9 @@ The dataset contains monthly totals of international airline passengers from 194
 - Predicted passenger growth trend for next 12 months
 - Seasonal pattern preserved in forecast
 
+## 📸 Results Visualization
+
+Here’s the SARIMAX forecast compared to the original data:
+
+![Forecast Results](results.png)
 
