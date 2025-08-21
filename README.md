@@ -33,5 +33,5 @@ The dataset contains monthly totals of international airline passengers from 194
 
 Here’s the SARIMAX forecast compared to the original data:
 
-![Forecast Results](results.png)
+![Forecast Results](result.png)
 
